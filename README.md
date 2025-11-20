@@ -1,6 +1,6 @@
 # Translatify
 
-A Google Sheets helper tool designed to support collaboration in multinational organizations. Translatify allows users to insert translations of specified columns directly into their spreadsheets, creating new translated columns next to the original ones.
+A helper tool designed to support collaboration in multinational organizations. Translatify allows users to insert translations of specified columns directly into their spreadsheets, creating new translated columns next to the original ones (currently limited to Google Sheets).
 
 ## Features
 
